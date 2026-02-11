@@ -13,7 +13,6 @@
 <br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim-kang&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim-kang&layout=compact&theme=dark)
 
 
 <br/>
